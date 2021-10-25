@@ -2,7 +2,7 @@
 
  
 
-## I'm Cézar Augusto Meira Carmo! 
+## I'm Cézar Carmo! 
 
 :computer: I'm Big Data Engineer!
 
