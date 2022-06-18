@@ -12,7 +12,7 @@
 
 :iphone: +55(77)9-9821-9952 (Zap). 
 
-:factory: Capgemini.
+:factory: Cognizant (Vivo - Telefônica).
 
 ## About me
 
