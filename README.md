@@ -12,8 +12,6 @@
 
 :iphone: +55(77)9-9821-9952 (Zap). 
 
-:factory: Cognizant (Vivo - Telefônica).
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cezarcarmo)](https://github.com/cezarcarmo)
