@@ -8,7 +8,7 @@
 
 :world_map: I’m from Brazil.
 
-:e-mail: cezaraugustomeiracarmo@gmail.com
+:e-mail: dataengineercezar@gmail.com
 
 :iphone: +55(77)9-9821-9952 (Zap). 
 
